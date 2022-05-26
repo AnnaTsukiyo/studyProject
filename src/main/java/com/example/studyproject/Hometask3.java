@@ -6,7 +6,7 @@ import java.util.Random;
 
 /**
  * Hometask3
- * First level: 1: 5 tasks;
+ * First level: 5 tasks;
  * Second level: 1 task ;
  */
 
