@@ -1,4 +1,4 @@
-package com.example.studyproject;
+package com.example.studyproject.core;
 
 /**
  * First level: 4 tasks;

@@ -5,7 +5,6 @@ import lombok.Data;
 
 /**
  * Hometask12
- * <p>
  * First level:
  * 1. Create a class "Employee" with fields: full name, position, email, phone, salary, age.
  * 2.Make the class constructor populate these fields when the object is created.

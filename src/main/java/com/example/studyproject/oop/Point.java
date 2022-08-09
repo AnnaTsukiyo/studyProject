@@ -1,6 +1,7 @@
 package com.example.studyproject.oop;
 
 /**
+ * Hometask13
  * Describe the class "color point".
  * Coordinates and color are set for a point.
  * Color is described using three components (red, green, blue).
