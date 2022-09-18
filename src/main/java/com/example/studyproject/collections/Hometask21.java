@@ -38,8 +38,9 @@ import java.util.List;
  * Explanation: [9,4] is also accepted.
  */
 public class Hometask21 {
-    //Level 1 : input will be: 4
+    //Level 1 : output will be: 4
     //Level 2
+
     public static void main(String[] args) {
 
         int[] nums1 = {1, 2, 2, 1};
