@@ -24,7 +24,6 @@ public class Soldier implements Comparable<Soldier> {
 
     private String name;
     private int height;
-
     @Override
     public int compareTo(Soldier o) {
         return o.height - this.height;
