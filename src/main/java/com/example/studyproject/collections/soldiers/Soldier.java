@@ -4,11 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.ToString;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
 /**
  * Soldiers have always been built, are being built and will be built in descending order of growth.
  * Sort the soldiers, having previously thought about what is better to use under such conditions -Comparable or Comparator.
